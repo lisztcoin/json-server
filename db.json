@@ -1,7 +1,11 @@
 {
-  "id": 0,
-  "description": "Rubbble Test NFT",
-  "external_url": "http://rubbble.herokuapp.com/",
-  "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-  "name": "Rubbble"
+    "tokens": [
+        {
+          "id": 0,
+          "description": "Rubbble Test NFT",
+          "external_url": "http://rubbble.herokuapp.com/",
+          "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+          "name": "Rubbble"
+        }
+    ]
 }
