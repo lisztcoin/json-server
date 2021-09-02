@@ -5,14 +5,14 @@
           "description": "Rubbble Test NFT",
           "external_url": "http://rubbble.herokuapp.com/",
           "image": "https://twemoji.maxcdn.com/svg/2764.svg",
-          "name": "Rubbble"
+          "name": "Rubbble 0"
         },
         {
           "id": 1,
           "description": "Rubbble Test NFT",
           "external_url": "http://rubbble.herokuapp.com/",
           "image": "https://twemoji.maxcdn.com/svg/2764.svg",
-          "name": "Rubbble"
+          "name": "Rubbble 1"
         }
     ]
 }
